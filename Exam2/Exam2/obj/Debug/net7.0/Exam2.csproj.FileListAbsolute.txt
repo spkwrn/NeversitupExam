@@ -1,0 +1,14 @@
+D:\test\Neversitup\Exam2\Exam2\bin\Debug\net7.0\Exam2.exe
+D:\test\Neversitup\Exam2\Exam2\bin\Debug\net7.0\Exam2.deps.json
+D:\test\Neversitup\Exam2\Exam2\bin\Debug\net7.0\Exam2.runtimeconfig.json
+D:\test\Neversitup\Exam2\Exam2\bin\Debug\net7.0\Exam2.dll
+D:\test\Neversitup\Exam2\Exam2\bin\Debug\net7.0\Exam2.pdb
+D:\test\Neversitup\Exam2\Exam2\obj\Debug\net7.0\Exam2.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\Neversitup\Exam2\Exam2\obj\Debug\net7.0\Exam2.AssemblyInfoInputs.cache
+D:\test\Neversitup\Exam2\Exam2\obj\Debug\net7.0\Exam2.AssemblyInfo.cs
+D:\test\Neversitup\Exam2\Exam2\obj\Debug\net7.0\Exam2.csproj.CoreCompileInputs.cache
+D:\test\Neversitup\Exam2\Exam2\obj\Debug\net7.0\Exam2.dll
+D:\test\Neversitup\Exam2\Exam2\obj\Debug\net7.0\refint\Exam2.dll
+D:\test\Neversitup\Exam2\Exam2\obj\Debug\net7.0\Exam2.pdb
+D:\test\Neversitup\Exam2\Exam2\obj\Debug\net7.0\Exam2.genruntimeconfig.cache
+D:\test\Neversitup\Exam2\Exam2\obj\Debug\net7.0\ref\Exam2.dll

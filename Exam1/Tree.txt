@@ -1,0 +1,65 @@
+D:.
+├───common
+│   ├───filters
+│   └───interceptors
+├───config
+│   └───dto
+├───consent
+├───constants
+├───database
+│   ├───entity
+│   └───migration
+├───decorator
+│   ├───auth
+│   └───cookie
+├───health
+├───middleware
+├───redis
+├───repository
+│   ├───apps
+│   ├───log-generate-tokens
+│   ├───otp-trans
+│   ├───platform
+│   ├───sso-apps
+│   ├───users
+│   ├───users-trans
+│   └───whitelist-tel
+├───services
+│   ├───accounts
+│   │   └───dto
+│   ├───apps
+│   ├───captcha
+│   ├───email
+│   ├───firebase
+│   │   └───dto
+│   ├───keycloak
+│   │   └───dto
+│   ├───log-generate-tokens
+│   │   └───dto
+│   ├───oauth
+│   │   └───dto
+│   ├───oauth-citizen
+│   │   └───dto
+│   ├───otp
+│   │   └───dto
+│   │       └───validation
+│   ├───otp-trans
+│   │   └───dto
+│   ├───platforms
+│   │   └───dto
+│   ├───prisma
+│   │   └───services
+│   ├───redis
+│   ├───register
+│   │   └───dto
+│   ├───sso-apps
+│   │   └───dto
+│   ├───title
+│   │   └───dto
+│   ├───users
+│   │   └───dto
+│   ├───users-trans
+│   └───whitelist-tel
+│       └───dto
+├───type
+└───utils
